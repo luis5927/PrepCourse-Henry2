@@ -1,2 +1,1 @@
-# PrepCourse-Henry2
-segunda practica Henry
+est es mi segunda practica del PrepCourse-Henry2
